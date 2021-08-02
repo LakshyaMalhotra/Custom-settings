@@ -1,0 +1,37 @@
+### FIGURE
+figure.facecolor: white
+figure.dpi: 100
+figure.titlesize: 18
+figure.titleweight: regular
+
+### LINES
+lines.linewidth: 1.85
+
+### PATCHES
+patch.facecolor: 0072B2
+
+### LEGEND
+legend.fontsize: 12
+legend.frameon: False
+
+### TICKS
+xtick.direction: out
+ytick.direction: out
+xtick.labelsize:12
+ytick.labelsize:12
+
+### FONTS
+font.weight: regular
+font.size: 14
+
+### AXES
+axes.grid: False
+# axes.facecolor: white
+axes.linewidth: 1.0
+axes.titlesize: 18
+# axes.titleweight: regular
+axes.labelsize: 14
+# axes.labelweight: regular
+axes.spines.top: False
+axes.spines.right: False
+axes.prop_cycle: cycler('color', ['636EFA', 'EF553B', '00CC96', '19D3F3', 'FFA15A', 'AB63FA', 'FF6692', 'B6E880', 'FF97FF', 'FECB52'])
